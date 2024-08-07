@@ -85,7 +85,7 @@ python awn_leaf_wetness.py input_weather_data.json
     }
 ]
 
-# License
+## Usage
 
 - This project is licensed under the MIT License - see the LICENSE file for details.
 
